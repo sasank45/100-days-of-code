@@ -1,28 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 28, 2019 (Example 1)
+### Day 0: January 28, 2019
 
 **Today's Progress**: Completed the freecodecamp, CSS Cap 3
 
 **Thoughts:** I'm just getting reminded of all the CSS stuff, even though it's been a long time I've coded something. Let's face it, I'll have to revise all this up in 2 weeks.
 **Link to work:** [CSS Lesson 3 on FCC](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-selectors-to-style-elements)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 29, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned the two ways of adding CSS. One is Inline and another one is using the Style header.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It was smooth. I just see there's lot more to go.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Hello CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css/import-a-google-font)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)

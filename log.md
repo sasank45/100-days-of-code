@@ -16,4 +16,13 @@
 **Link(s) to work**: [Hello CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css/import-a-google-font)
 
 
+### Day 2: January 31, 2019
+
+**Today's Progress**: CSS improved.
+
+**Thoughts**: It was smooth. I just see there's lot more to go.
+
+**Link(s) to work**: [More than just Hello(https://learn.freecodecamp.org/responsive-web-design/basic-css/import-a-google-font)
+
+
 

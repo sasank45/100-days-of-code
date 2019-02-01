@@ -24,5 +24,14 @@
 
 **Link(s) to work**: [More than just Hello(https://learn.freecodecamp.org/responsive-web-design/basic-css/import-a-google-font)
 
+### Day 3: Feb 1, 2019
+
+**Today's Progress**: Got into JS. Now, little bit refreshing up with Equality lessons.
+
+**Thoughts**: At Freshworks, I've successfully understood working with API's I'll now focus more on @netninja Tutorials than the codecamp itself.
+
+**Link(s) to work**: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator
+
+
 
 

@@ -32,6 +32,14 @@
 
 **Link(s) to work**: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator
 
+### Day 3: Feb 2, 2019
+
+**Today's Progress**: Learnt the right way to put JS.
+
+**Thoughts**: No thoughts, I've started working in parllel on Shaun's net ninja series.
+
+**Link(s) to work**: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements
+
 
 
 

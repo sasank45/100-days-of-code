@@ -40,6 +40,14 @@
 
 **Link(s) to work**: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements
 
+### Day 4: Feb 4, 2019
+
+**Today's Progress**: Added Switch stated to the skillset of JS.
+
+**Thoughts**: This time again back to freecodecamp curriculum.
+
+**Link(s) to work**: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects
+
 
 
 
